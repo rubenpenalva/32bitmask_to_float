@@ -1,2 +1,2 @@
 # 32bitmask_to_float
-32bit mask encode/decode bug
+Repo to show case a small bug when encoding and decoding a 32bit mask into and from a float.
